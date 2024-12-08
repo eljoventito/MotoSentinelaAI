@@ -12,7 +12,6 @@ Predic*.ipynb
 *.pt
 *.json
 motos_detectadas/dataset
-motos_detectadas/all_img
 13SubirGeneral12.py
 Mejorado_Tiempo_Real.ipynb
 motos_detectadas.zip
