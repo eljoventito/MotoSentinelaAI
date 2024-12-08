@@ -10,7 +10,6 @@ runs
 Aplicacion*
 Predic*.ipynb
 *.pt
-*.json
 motos_detectadas/dataset
 13SubirGeneral12.py
 Mejorado_Tiempo_Real.ipynb
@@ -20,3 +19,6 @@ video_evaluacion_original.mp4
 full_dataset_aumentacion.yaml
 full_dataset.yaml
 *.mp4
+*.mp4
+test-seg-objetos-11-d629c638d466.json
+config_google.json
