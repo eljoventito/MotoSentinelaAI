@@ -86,6 +86,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-- **Autor**: Luis Villacorta
-- **Correo**: lvillacorta@mfsac.pe
-- **LinkedIn**: [Luis Villacorta](https://www.linkedin.com/in/luisvillacorta/)
+- **Autores**: Luis Villacorta, Josemanuel Cañari, Christopher Panana. 
+- **Correo**: luis.villacorta.tito@gmail.com, canaripalanterossy@gmail.com, christopher271413@gmail.com
+- **LinkedIn**: [Luis Villacorta](https://www.linkedin.com/in/luisvillacorta/), [Josemanuel Cañari](https://www.linkedin.com/in/josemanuel-ca%C3%B1ari-palante-015504251/), [Christopher Panana](https://www.linkedin.com/in/christopher-panana-estadistico/)
