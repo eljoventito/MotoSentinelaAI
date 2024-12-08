@@ -88,4 +88,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 - **Autor**: Luis Villacorta
 - **Correo**: lvillacorta@mfsac.pe
-- **LinkedIn**: [Luis Villacorta](https://www.linkedin.com/in/luis-villacorta/)
+- **LinkedIn**: [Luis Villacorta](https://www.linkedin.com/in/luisvillacorta/)
