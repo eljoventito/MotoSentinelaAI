@@ -9,7 +9,7 @@ runs
 13SubirGeneral12.__pycache__
 Aplicacion*
 Predic*.ipynb
-*.pt
+yolo*.pt
 motos_detectadas/dataset
 13SubirGeneral12.py
 Mejorado_Tiempo_Real.ipynb
