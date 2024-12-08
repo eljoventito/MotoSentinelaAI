@@ -5,6 +5,8 @@
 
 El sistema permite la segmentación de imágenes, el entrenamiento de modelos personalizados y la implementación en tiempo real para generar alertas en escenarios urbanos.
 
+[**Diapositivas del Proyecto**](https://docs.google.com/presentation/d/e/2PACX-1vQapZ44PuNctk8Wqw6LnJbJ22gZSAik6n029tnpmZm37gwriFx2Wj3mnvteA4p7YA/pub?start=false&loop=false&delayms=3000)
+
 ---
 
 ## Características Principales
