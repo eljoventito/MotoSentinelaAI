@@ -10,6 +10,7 @@ beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1696630167146/work
 Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+cachetools==5.5.0
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1720457958366/work/certifi
 cffi @ file:///D:/bld/cffi_1696001730392/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -31,10 +32,17 @@ fonttools==4.53.1
 fqdn @ file:///home/conda/feedstock_root/build_artifacts/fqdn_1638810296540/work/dist
 fsspec==2024.6.1
 gmpy2 @ file:///C:/ci/gmpy2_1645438895476/work
+google-api-core==2.23.0
+google-api-python-client==2.154.0
+google-auth==2.36.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+googleapis-common-protos==1.66.0
 h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
 h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
 hpack==4.0.0
 httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1711596990900/work
+httplib2==0.22.0
 httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1708530890843/work
 hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
 idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
@@ -76,6 +84,7 @@ nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_17
 networkx @ file:///C:/b/abs_36fmumtynt/croot/networkx_1720002497414/work
 notebook_shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1707957777232/work
 numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp310-cp310-win_amd64.whl#sha256=ebb5aa2b36d8afa5ec3231c19e5a1fc75b6d85e7db483f0fb9e77dad58469977
+oauthlib==3.2.2
 opencv-python==4.10.0.84
 openpyxl==3.1.5
 overrides @ file:///home/conda/feedstock_root/build_artifacts/overrides_1706394519472/work
@@ -89,9 +98,13 @@ pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
 prometheus_client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1707932675456/work
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1718047967974/work
+proto-plus==1.25.0
+protobuf==5.29.0
 psutil @ file:///D:/bld/psutil_1719274706785/work
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 py-cpuinfo==9.0.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
 pyparsing==3.1.2
@@ -105,9 +118,11 @@ PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
 pyzmq @ file:///D:/bld/pyzmq_1715024531233/work
 referencing @ file:///home/conda/feedstock_root/build_artifacts/referencing_1714619483868/work
 requests @ file:///C:/b/abs_9c5n24p1y7/croot/requests_1716902867639/work
+requests-oauthlib==2.0.0
 rfc3339-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3339-validator_1638811747357/work
 rfc3986-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3986-validator_1598024191506/work
 rpds-py @ file:///D:/bld/rpds-py_1720476459837/work
+rsa==4.9
 scikit-learn==1.5.1
 scipy==1.14.0
 seaborn==0.13.2
@@ -135,6 +150,7 @@ tzdata==2024.1
 ultralytics==8.3.28
 ultralytics-thop==2.0.0
 uri-template @ file:///home/conda/feedstock_root/build_artifacts/uri-template_1688655812972/work/dist
+uritemplate==4.1.1
 urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 webcolors @ file:///home/conda/feedstock_root/build_artifacts/webcolors_1717667289718/work
